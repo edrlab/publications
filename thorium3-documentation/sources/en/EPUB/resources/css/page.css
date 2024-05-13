@@ -1,0 +1,8 @@
+h1 {
+  font-family: 'TruenoBd', Helvetica, Arial, sans-serif;
+  border-bottom: 2px solid green;
+}
+
+.info {color: blueviolet;}
+.alert {color: blueviolet}
+.danger {color: blueviolet}
