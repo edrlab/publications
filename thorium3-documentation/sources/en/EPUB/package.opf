@@ -417,7 +417,6 @@
   </manifest>
   <spine>
     <itemref idref="cover"/>
-    <itemref idref="page28"/>
     <itemref idref="page2"/>
     <itemref idref="page30"/>
     <itemref idref="page4"/>
