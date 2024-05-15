@@ -352,8 +352,8 @@
       media-type="image/png"
     
     />
-    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
-    <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="pages/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" properties="nav" href="pages/toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="page2" href="./pages/100_quickStart.xhtml" media-type="application/xhtml+xml"
     />
     <item id="page4" href="./pages/212_ImageZoom.xhtml" media-type="application/xhtml+xml"
