@@ -29,26 +29,135 @@
     <item id="rsc1" href="resources/css/page.css" media-type="text/css"/>
     <item id="coverimg" href="resources/images/cover.png" media-type="image/png" properties="cover-image"/>
     <item id="asterism" href="resources/images/asterism.svg" media-type="image/svg+xml"/>
-    <item id="readBook-icon" href="resources/images/icons3/readBook-icon.svg" media-type="image/svg+xml"/>
-    <item id="refresh-icon" href="resources/images/icons3/refresh-icon.svg" media-type="image/svg+xml"/>
-    <item id="SaveAs-icon" href="resources/images/icons3/SaveAs-icon.svg" media-type="image/svg+xml"/>
-    <item id="scroll-icon" href="resources/images/icons3/scroll-icon.svg" media-type="image/svg+xml"/>
-    <item id="search-icon" href="resources/images/icons3/search-icon.svg" media-type="image/svg+xml"/>
-    <item id="shelf-icon" href="resources/images/icons3/shelf-icon.svg" media-type="image/svg+xml"/>
-    <item id="speaker-icon" href="resources/images/icons3/speaker-icon.svg" media-type="image/svg+xml"/>
-    <item id="stop-icon" href="resources/images/icons3/stop-icon.svg" media-type="image/svg+xml"/>
-    <item id="swatches-icon" href="resources/images/icons3/swatches-icon.svg" media-type="image/svg+xml"/>
-    <item id="table-icon" href="resources/images/icons3/table-icon.svg" media-type="image/svg+xml"/>
-    <item id="tag-icon" href="resources/images/icons3/tag-icon.svg" media-type="image/svg+xml"/>
-    <item id="target-icon" href="resources/images/icons3/target-icon.svg" media-type="image/svg+xml"/>
-    <item id="textarea-icon" href="resources/images/icons3/textarea-icon.svg" media-type="image/svg+xml"/>
-    <item id="TextOutline-icon" href="resources/images/icons3/TextOutline-icon.svg" media-type="image/svg+xml"/>
-    <item id="TextStrikethrough-icon" href="resources/images/icons3/TextStrikethrough-icon.svg" media-type="image/svg+xml"/>
-    <item id="toc-icon" href="resources/images/icons3/toc-icon.svg" media-type="image/svg+xml"/>
-    <item id="trash-icon" href="resources/images/icons3/trash-icon.svg" media-type="image/svg+xml"/>
-    <item id="underline-icon" href="resources/images/icons3/underline-icon.svg" media-type="image/svg+xml"/>
-    <item id="validated-icon" href="resources/images/icons3/validated-icon.svg" media-type="image/svg+xml"/>
-    <item id="volume-icon" href="resources/images/icons3/volume-icon.svg" media-type="image/svg+xml"/>
+<item id="_2cols-icon" href="resources/images/icons3/2cols-icon.svg" media-type="image/svg+xml"/>
+<item id="_add-alone" href="resources/images/icons3/add-alone.svg" media-type="image/svg+xml"/>
+<item id="_addTag-icon" href="resources/images/icons3/addTag-icon.svg" media-type="image/svg+xml"/>
+<item id="_align-auto-icon" href="resources/images/icons3/align-auto-icon.svg" media-type="image/svg+xml"/>
+<item id="_align-justify-icon" href="resources/images/icons3/align-justify-icon.svg" media-type="image/svg+xml"/>
+<item id="_alignleft-icon" href="resources/images/icons3/alignleft-icon.svg" media-type="image/svg+xml"/>
+<item id="_align-right-icon" href="resources/images/icons3/align-right-icon.svg" media-type="image/svg+xml"/>
+<item id="_annotation-icon" href="resources/images/icons3/annotation-icon.svg" media-type="image/svg+xml"/>
+<item id="_annotations-icon" href="resources/images/icons3/annotations-icon.svg" media-type="image/svg+xml"/>
+<item id="_arrowFirst-icon" href="resources/images/icons3/arrowFirst-icon.svg" media-type="image/svg+xml"/>
+<item id="_arrowLast-icon" href="resources/images/icons3/arrowLast-icon.svg" media-type="image/svg+xml"/>
+<item id="_arrow-right" href="resources/images/icons3/arrow-right.svg" media-type="image/svg+xml"/>
+<item id="_aspect_ratio-black-18dp" href="resources/images/icons3/aspect_ratio-black-18dp.svg" media-type="image/svg+xml"/>
+<item id="_audio-next-icon" href="resources/images/icons3/audio-next-icon.svg" media-type="image/svg+xml"/>
+<item id="_audio-pause-icon" href="resources/images/icons3/audio-pause-icon.svg" media-type="image/svg+xml"/>
+<item id="_audio-play-icon" href="resources/images/icons3/audio-play-icon.svg" media-type="image/svg+xml"/>
+<item id="_audio-previous-icon" href="resources/images/icons3/audio-previous-icon.svg" media-type="image/svg+xml"/>
+<item id="_audio-stop-icon" href="resources/images/icons3/audio-stop-icon.svg" media-type="image/svg+xml"/>
+<item id="_available-icon" href="resources/images/icons3/available-icon.svg" media-type="image/svg+xml"/>
+<item id="_avatar" href="resources/images/icons3/avatar.svg" media-type="image/svg+xml"/>
+<item id="_backward-icon" href="resources/images/icons3/backward-icon.svg" media-type="image/svg+xml"/>
+<item id="_baseline-add-24px" href="resources/images/icons3/baseline-add-24px.svg" media-type="image/svg+xml"/>
+<item id="_baseline-arrow_forward_ios-24px" href="resources/images/icons3/baseline-arrow_forward_ios-24px.svg" media-type="image/svg+xml"/>
+<item id="_baseline-arrow_left_ios-24px" href="resources/images/icons3/baseline-arrow_left_ios-24px.svg" media-type="image/svg+xml"/>
+<item id="_baseline-close-24px" href="resources/images/icons3/baseline-close-24px.svg" media-type="image/svg+xml"/>
+<item id="_baseline-mute-24px" href="resources/images/icons3/baseline-mute-24px.svg" media-type="image/svg+xml"/>
+<item id="_baseline-search-24px-grey" href="resources/images/icons3/baseline-search-24px-grey.svg" media-type="image/svg+xml"/>
+<item id="_bin-icon" href="resources/images/icons3/bin-icon.svg" media-type="image/svg+xml"/>
+<item id="_bookmarkMultiple-icon" href="resources/images/icons3/bookmarkMultiple-icon.svg" media-type="image/svg+xml"/>
+<item id="_BookmarkRemove-icon" href="resources/images/icons3/BookmarkRemove-icon.svg" media-type="image/svg+xml"/>
+<item id="_bookmarkSingle-icon" href="resources/images/icons3/bookmarkSingle-icon.svg" media-type="image/svg+xml"/>
+<item id="_bookOpen-icon" href="resources/images/icons3/bookOpen-icon.svg" media-type="image/svg+xml"/>
+<item id="_borrow-icon" href="resources/images/icons3/borrow-icon.svg" media-type="image/svg+xml"/>
+<item id="_breadcrumbsNav-icon" href="resources/images/icons3/breadcrumbsNav-icon.svg" media-type="image/svg+xml"/>
+<item id="_calendar2-icon" href="resources/images/icons3/calendar2-icon.svg" media-type="image/svg+xml"/>
+<item id="_calendarExpired-icon" href="resources/images/icons3/calendarExpired-icon.svg" media-type="image/svg+xml"/>
+<item id="_calendar-icon" href="resources/images/icons3/calendar-icon.svg" media-type="image/svg+xml"/>
+<item id="_cart-fill" href="resources/images/icons3/cart-fill.svg" media-type="image/svg+xml"/>
+<item id="_cart-icon" href="resources/images/icons3/cart-icon.svg" media-type="image/svg+xml"/>
+<item id="_catalogs-icon" href="resources/images/icons3/catalogs-icon.svg" media-type="image/svg+xml"/>
+<item id="_chevron-down" href="resources/images/icons3/chevron-down.svg" media-type="image/svg+xml"/>
+<item id="_chevron-right" href="resources/images/icons3/chevron-right.svg" media-type="image/svg+xml"/>
+<item id="_chevron-up" href="resources/images/icons3/chevron-up.svg" media-type="image/svg+xml"/>
+<item id="_clock-reverse-icon" href="resources/images/icons3/clock-reverse-icon.svg" media-type="image/svg+xml"/>
+<item id="_close-icon" href="resources/images/icons3/close-icon.svg" media-type="image/svg+xml"/>
+<item id="_cog-icon" href="resources/images/icons3/cog-icon.svg" media-type="image/svg+xml"/>
+<item id="_comment-icon" href="resources/images/icons3/comment-icon.svg" media-type="image/svg+xml"/>
+<item id="_defaultPage-icon" href="resources/images/icons3/defaultPage-icon.svg" media-type="image/svg+xml"/>
+<item id="_deleteFilter-icon" href="resources/images/icons3/deleteFilter-icon.svg" media-type="image/svg+xml"/>
+<item id="_dockleft-icon" href="resources/images/icons3/dockleft-icon.svg" media-type="image/svg+xml"/>
+<item id="_dockmodal-icon" href="resources/images/icons3/dockmodal-icon.svg" media-type="image/svg+xml"/>
+<item id="_dockright-icon" href="resources/images/icons3/dockright-icon.svg" media-type="image/svg+xml"/>
+<item id="_documents-icon" href="resources/images/icons3/documents-icon.svg" media-type="image/svg+xml"/>
+<item id="_done" href="resources/images/icons3/done.svg" media-type="image/svg+xml"/>
+<item id="_double_arrow_down_black_24dp" href="resources/images/icons3/double_arrow_down_black_24dp.svg" media-type="image/svg+xml"/>
+<item id="_double_arrow_left_black_24dp" href="resources/images/icons3/double_arrow_left_black_24dp.svg" media-type="image/svg+xml"/>
+<item id="_double_arrow_right_black_24dp" href="resources/images/icons3/double_arrow_right_black_24dp.svg" media-type="image/svg+xml"/>
+<item id="_double_arrow_up_black_24dp" href="resources/images/icons3/double_arrow_up_black_24dp.svg" media-type="image/svg+xml"/>
+<item id="_doubleCheck-icon" href="resources/images/icons3/doubleCheck-icon.svg" media-type="image/svg+xml"/>
+<item id="_download" href="resources/images/icons3/download.svg" media-type="image/svg+xml"/>
+<item id="_duplicate-icon" href="resources/images/icons3/duplicate-icon.svg" media-type="image/svg+xml"/>
+<item id="_emptylibrary-background-icon" href="resources/images/icons3/emptylibrary-background-icon.svg" media-type="image/svg+xml"/>
+<item id="_emptylibrary-icon" href="resources/images/icons3/emptylibrary-icon.svg" media-type="image/svg+xml"/>
+<item id="_filter-icon" href="resources/images/icons3/filter-icon.svg" media-type="image/svg+xml"/>
+<item id="_floppydisk-icon" href="resources/images/icons3/floppydisk-icon.svg" media-type="image/svg+xml"/>
+<item id="_followLink-icon" href="resources/images/icons3/followLink-icon.svg" media-type="image/svg+xml"/>
+<item id="_forbidden-icon" href="resources/images/icons3/forbidden-icon.svg" media-type="image/svg+xml"/>
+<item id="_forward-icon" href="resources/images/icons3/forward-icon.svg" media-type="image/svg+xml"/>
+<item id="_fullscreen-corners-icon" href="resources/images/icons3/fullscreen-corners-icon.svg" media-type="image/svg+xml"/>
+<item id="_fullscreenExit-icon" href="resources/images/icons3/fullscreenExit-icon.svg" media-type="image/svg+xml"/>
+<item id="_fullscreen-icon" href="resources/images/icons3/fullscreen-icon.svg" media-type="image/svg+xml"/>
+<item id="_gear-icon" href="resources/images/icons3/gear-icon.svg" media-type="image/svg+xml"/>
+<item id="_globe-icon" href="resources/images/icons3/globe-icon.svg" media-type="image/svg+xml"/>
+<item id="_globe-icon-bold" href="resources/images/icons3/globe-icon-bold.svg" media-type="image/svg+xml"/>
+<item id="_grid-icon" href="resources/images/icons3/grid-icon.svg" media-type="image/svg+xml"/>
+<item id="_headphone-icon" href="resources/images/icons3/headphone-icon.svg" media-type="image/svg+xml"/>
+<item id="_highlight-icon" href="resources/images/icons3/highlight-icon.svg" media-type="image/svg+xml"/>
+<item id="_home-icon" href="resources/images/icons3/home-icon.svg" media-type="image/svg+xml"/>
+<item id="_import" href="resources/images/icons3/import.svg" media-type="image/svg+xml"/>
+<item id="_info-icon" href="resources/images/icons3/info-icon.svg" media-type="image/svg+xml"/>
+<item id="_key-icon" href="resources/images/icons3/key-icon.svg" media-type="image/svg+xml"/>
+<item id="_keyreturn-icon" href="resources/images/icons3/keyreturn-icon.svg" media-type="image/svg+xml"/>
+<item id="_landmark-icon" href="resources/images/icons3/landmark-icon.svg" media-type="image/svg+xml"/>
+<item id="_language" href="resources/images/icons3/language.svg" media-type="image/svg+xml"/>
+<item id="_layout-icon" href="resources/images/icons3/layout-icon.svg" media-type="image/svg+xml"/>
+<item id="_library-icon" href="resources/images/icons3/library-icon.svg" media-type="image/svg+xml"/>
+<item id="_lightbulb-icon" href="resources/images/icons3/lightbulb-icon.svg" media-type="image/svg+xml"/>
+<item id="_link-icon" href="resources/images/icons3/link-icon.svg" media-type="image/svg+xml"/>
+<item id="_list-icon" href="resources/images/icons3/list-icon.svg" media-type="image/svg+xml"/>
+<item id="_loader" href="resources/images/icons3/loader.svg" media-type="image/svg+xml"/>
+<item id="_logo_edrlab" href="resources/images/icons3/logo_edrlab.svg" media-type="image/svg+xml"/>
+<item id="_loop" href="resources/images/icons3/loop.svg" media-type="image/svg+xml"/>
+<item id="_magnifying_glass" href="resources/images/icons3/magnifying_glass.svg" media-type="image/svg+xml"/>
+<item id="_menu" href="resources/images/icons3/menu.svg" media-type="image/svg+xml"/>
+<item id="_Minus-Bold" href="resources/images/icons3/Minus-Bold.svg" media-type="image/svg+xml"/>
+<item id="_ongoingBook-icon" href="resources/images/icons3/ongoingBook-icon.svg" media-type="image/svg+xml"/>
+<item id="_open_book" href="resources/images/icons3/open_book.svg" media-type="image/svg+xml"/>
+<item id="_outline-exit_to_app-24px" href="resources/images/icons3/outline-exit_to_app-24px.svg" media-type="image/svg+xml"/>
+<item id="_outline-flip_to_front-24px" href="resources/images/icons3/outline-flip_to_front-24px.svg" media-type="image/svg+xml"/>
+<item id="_outline-info-24px" href="resources/images/icons3/outline-info-24px.svg" media-type="image/svg+xml"/>
+<item id="_page-icon" href="resources/images/icons3/page-icon.svg" media-type="image/svg+xml"/>
+<item id="_paintbrush-icon" href="resources/images/icons3/paintbrush-icon.svg" media-type="image/svg+xml"/>
+<item id="_palette-icon" href="resources/images/icons3/palette-icon.svg" media-type="image/svg+xml"/>
+<item id="_password-icon" href="resources/images/icons3/password-icon.svg" media-type="image/svg+xml"/>
+<item id="_pen-icon" href="resources/images/icons3/pen-icon.svg" media-type="image/svg+xml"/>
+<item id="_person-fill" href="resources/images/icons3/person-fill.svg" media-type="image/svg+xml"/>
+<item id="_Plus-bold" href="resources/images/icons3/Plus-bold.svg" media-type="image/svg+xml"/>
+<item id="_readBook-icon" href="resources/images/icons3/readBook-icon.svg" media-type="image/svg+xml"/>
+<item id="_refresh-icon" href="resources/images/icons3/refresh-icon.svg" media-type="image/svg+xml"/>
+<item id="_SaveAs-icon" href="resources/images/icons3/SaveAs-icon.svg" media-type="image/svg+xml"/>
+<item id="_scroll-icon" href="resources/images/icons3/scroll-icon.svg" media-type="image/svg+xml"/>
+<item id="_search-icon" href="resources/images/icons3/search-icon.svg" media-type="image/svg+xml"/>
+<item id="_shelf-icon" href="resources/images/icons3/shelf-icon.svg" media-type="image/svg+xml"/>
+<item id="_singlecheck-icon" href="resources/images/icons3/singlecheck-icon.svg" media-type="image/svg+xml"/>
+<item id="_speaker-icon" href="resources/images/icons3/speaker-icon.svg" media-type="image/svg+xml"/>
+<item id="_stop-icon" href="resources/images/icons3/stop-icon.svg" media-type="image/svg+xml"/>
+<item id="_swatches-icon" href="resources/images/icons3/swatches-icon.svg" media-type="image/svg+xml"/>
+<item id="_table-icon" href="resources/images/icons3/table-icon.svg" media-type="image/svg+xml"/>
+<item id="_tag-icon" href="resources/images/icons3/tag-icon.svg" media-type="image/svg+xml"/>
+<item id="_target-icon" href="resources/images/icons3/target-icon.svg" media-type="image/svg+xml"/>
+<item id="_textarea-icon" href="resources/images/icons3/textarea-icon.svg" media-type="image/svg+xml"/>
+<item id="_TextOutline-icon" href="resources/images/icons3/TextOutline-icon.svg" media-type="image/svg+xml"/>
+<item id="_TextStrikethrough-icon" href="resources/images/icons3/TextStrikethrough-icon.svg" media-type="image/svg+xml"/>
+<item id="_toc-icon" href="resources/images/icons3/toc-icon.svg" media-type="image/svg+xml"/>
+<item id="_trash-icon" href="resources/images/icons3/trash-icon.svg" media-type="image/svg+xml"/>
+<item id="_underline-icon" href="resources/images/icons3/underline-icon.svg" media-type="image/svg+xml"/>
+<item id="_unsvg" href="resources/images/icons3/unsvg.svg" media-type="image/svg+xml"/>
+<item id="_validated-icon" href="resources/images/icons3/validated-icon.svg" media-type="image/svg+xml"/>
+<item id="_volume-icon" href="resources/images/icons3/volume-icon.svg" media-type="image/svg+xml"/>
     <item id="rsc43" href="resources/images/local-fr/thorium-NVDA-liste-boutons-bibli.png" media-type="image/png"/>
     <item id="rsc44" href="resources/images/local-fr/thorium-TDM-light.png" media-type="image/png"/>
     <item id="rsc45" href="resources/images/local-fr/thorium-TDM-night.png" media-type="image/png"/>
@@ -69,75 +178,75 @@
     <item id="rsc60" href="resources/images/local-fr/thorium-verdana.png" media-type="image/png"/>
     <item id="rsc61" href="resources/images/local-fr/thorium-whereami-ctrlK.png" media-type="image/png"/>
     <item id="rsc62" href="resources/images/local-fr/thorium-whereami-tdmfocus.png" media-type="image/png"/>
-    <item id="cover_" href="cover.xhtml" media-type="application/xhtml+xml"/>
-    <item id="toc_" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="100_forewords" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
-    <item id="101_get_a_book" href="pages/101_get_a_book.xhtml" media-type="application/xhtml+xml"/>
-    <item id="210_read_a_book" href="pages/210_read_a_book.xhtml" media-type="application/xhtml+xml"/>
-    <item id="212_ImageZoom" href="pages/212_ImageZoom.xhtml" media-type="application/xhtml+xml"/>
-    <item id="213_search" href="pages/213_search.xhtml" media-type="application/xhtml+xml"/>
-    <item id="215_ReadingParameters" href="pages/215_ReadingParameters.xhtml" media-type="application/xhtml+xml"/>
-    <item id="220_organizing" href="pages/220_organizing.xhtml" media-type="application/xhtml+xml"/>
-    <item id="221_libraries" href="pages/221_libraries.xhtml" media-type="application/xhtml+xml"/>
-    <item id="222_catalogs" href="pages/222_catalogs.xhtml" media-type="application/xhtml+xml"/>
-    <item id="223_search" href="pages/223_search.xhtml" media-type="application/xhtml+xml"/>
-    <item id="224_tags" href="pages/224_tags.xhtml" media-type="application/xhtml+xml"/>
-    <item id="230_TTS" href="pages/230_TTS.xhtml" media-type="application/xhtml+xml"/>
-    <item id="240_annotations" href="pages/240_annotations.xhtml" media-type="application/xhtml+xml"/>
-    <item id="300_accessibility" href="pages/300_accessibility.xhtml" media-type="application/xhtml+xml"/>
-    <item id="301_A11yInfos" href="pages/301_A11yInfos.xhtml" media-type="application/xhtml+xml"/>
-    <item id="310_natives" href="pages/310_natives.xhtml" media-type="application/xhtml+xml"/>
-    <item id="311_screenReaders" href="pages/311_screenReaders.xhtml" media-type="application/xhtml+xml"/>
-    <item id="391_epubTest" href="pages/391_epubTest.xhtml" media-type="application/xhtml+xml"/>
-    <item id="400_ressources" href="pages/400_ressources.xhtml" media-type="application/xhtml+xml"/>
-    <item id="401_functions" href="pages/401_functions.xhtml" media-type="application/xhtml+xml"/>
-    <item id="402_Keyboard-shortcuts" href="pages/402_Keyboard-shortcuts.xhtml" media-type="application/xhtml+xml"/>
-    <item id="403_gesture" href="pages/403_gesture.xhtml" media-type="application/xhtml+xml"/>
-    <item id="406_formats" href="pages/406_formats.xhtml" media-type="application/xhtml+xml"/>
-    <item id="420_glossary" href="pages/420_glossary.xhtml" media-type="application/xhtml+xml"/>
-    <item id="430_faq" href="pages/430_faq.xhtml" media-type="application/xhtml+xml"/>
-    <item id="900_about" href="pages/900_about.xhtml" media-type="application/xhtml+xml"/>
-    <item id="902_credits" href="pages/902_credits.xhtml" media-type="application/xhtml+xml"/>
-    <item id="903_support" href="pages/903_support.xhtml" media-type="application/xhtml+xml"/>
-    <item id="904_issues" href="pages/904_issues.xhtml" media-type="application/xhtml+xml"/>
-    <item id="905_contribute" href="pages/905_contribute.xhtml" media-type="application/xhtml+xml"/>
-    <item id="912_accessibility_declaration" href="pages/912_accessibility_declaration.xhtml" media-type="application/xhtml+xml"/>
-    <item id="913_licence" href="pages/913_licence.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="page100" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page101_get_a_book" href="pages/101_get_a_book.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page210_read_a_book" href="pages/210_read_a_book.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page212_ImageZoom" href="pages/212_ImageZoom.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page213_search" href="pages/213_search.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page215_ReadingParameters" href="pages/215_ReadingParameters.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page220_organizing" href="pages/220_organizing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page221_libraries" href="pages/221_libraries.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page222_catalogs" href="pages/222_catalogs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page223_search" href="pages/223_search.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page224_tags" href="pages/224_tags.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page230_TTS" href="pages/230_TTS.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page240_annotations" href="pages/240_annotations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page300_accessibility" href="pages/300_accessibility.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page301_A11yInfos" href="pages/301_A11yInfos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page310_natives" href="pages/310_natives.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page311_screenReaders" href="pages/311_screenReaders.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page391_epubTest" href="pages/391_epubTest.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page400_ressources" href="pages/400_ressources.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page401_functions" href="pages/401_functions.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page402_Keyboard-shortcuts" href="pages/402_Keyboard-shortcuts.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page403_gesture" href="pages/403_gesture.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page406_formats" href="pages/406_formats.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page420_glossary" href="pages/420_glossary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page430_faq" href="pages/430_faq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page900_about" href="pages/900_about.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page902_credits" href="pages/902_credits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page903_support" href="pages/903_support.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page904_issues" href="pages/904_issues.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page905_contribute" href="pages/905_contribute.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page912_accessibility_declaration" href="pages/912_accessibility_declaration.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page913_licence" href="pages/913_licence.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
-    <itemref idref="cover" linear="no_"/>
-    <itemref idref="toc_"/>
-    <itemref idref="100_forewords"/>
-    <itemref idref="101_get_a_book"/>
-    <itemref idref="210_read_a_book"/>
-    <itemref idref="212_ImageZoom"/>
-    <itemref idref="213_search"/>
-    <itemref idref="215_ReadingParameters"/>
-    <itemref idref="220_organizing"/>
-    <itemref idref="221_libraries"/>
-    <itemref idref="222_catalogs"/>
-    <itemref idref="223_search"/>
-    <itemref idref="224_tags"/>
-    <itemref idref="230_TTS"/>
-    <itemref idref="240_annotations"/>
-    <itemref idref="300_accessibility"/>
-    <itemref idref="301_A11yInfos"/>
-    <itemref idref="310_natives"/>
-    <itemref idref="311_screenReaders"/>
-    <itemref idref="391_epubTest"/>
-    <itemref idref="400_ressources"/>
-    <itemref idref="401_functions"/>
-    <itemref idref="402_Keyboard-shortcuts"/>
-    <itemref idref="403_gesture"/>
-    <itemref idref="406_formats"/>
-    <itemref idref="420_glossary"/>
-    <itemref idref="430_faq"/>
-    <itemref idref="900_about"/>
-    <itemref idref="902_credits"/>
-    <itemref idref="903_support"/>
-    <itemref idref="904_issues"/>
-    <itemref idref="905_contribute"/>
-    <itemref idref="912_accessibility_declaration"/>
-    <itemref idref="913_licence"/>
+    <itemref idref="cover"/>
+    <itemref idref="toc"/>
+    <itemref idref="page100"/>
+    <itemref idref="page101_get_a_book"/>
+    <itemref idref="page210_read_a_book"/>
+    <itemref idref="page212_ImageZoom"/>
+    <itemref idref="page213_search"/>
+    <itemref idref="page215_ReadingParameters"/>
+    <itemref idref="page220_organizing"/>
+    <itemref idref="page221_libraries"/>
+    <itemref idref="page222_catalogs"/>
+    <itemref idref="page223_search"/>
+    <itemref idref="page224_tags"/>
+    <itemref idref="page230_TTS"/>
+    <itemref idref="page240_annotations"/>
+    <itemref idref="page300_accessibility"/>
+    <itemref idref="page301_A11yInfos"/>
+    <itemref idref="page310_natives"/>
+    <itemref idref="page311_screenReaders"/>
+    <itemref idref="page391_epubTest"/>
+    <itemref idref="page400_ressources"/>
+    <itemref idref="page401_functions"/>
+    <itemref idref="page402_Keyboard-shortcuts"/>
+    <itemref idref="page403_gesture"/>
+    <itemref idref="page406_formats"/>
+    <itemref idref="page420_glossary"/>
+    <itemref idref="page430_faq"/>
+    <itemref idref="page900_about"/>
+    <itemref idref="page902_credits"/>
+    <itemref idref="page903_support"/>
+    <itemref idref="page904_issues"/>
+    <itemref idref="page905_contribute"/>
+    <itemref idref="page912_accessibility_declaration"/>
+    <itemref idref="page913_licence"/>
   </spine>
 </package>
