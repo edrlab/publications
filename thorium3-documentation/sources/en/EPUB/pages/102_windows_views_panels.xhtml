@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html 
+  xmlns="http://www.w3.org/1999/xhtml" 
+  xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+  <head>
+    <meta charset="utf-8"/>
+
+    <title>Windows and views</title>
+    <link rel="stylesheet" type="text/css" href="../resources/css/page.css"/>
+<link rel="stylesheet" type="text/css" href="../resources/css/blitz.css"/>
+<link rel="stylesheet" type="text/css" href="../resources/css/edrlabpublications.css"/>
+  </head>
+  <body>
+    <section>
+    <h1 id="windows_and_views">Windows, views and panels</h1>
+    <p>Thorium reader has one main window and one additional window per open book. The main window is always open and offers 4 views (Home, All books, Catalogs and General settings) while book windows views will depend on the book format (textual, audio, visual). Each format will allow a selection of action panels that can be docked to one side of the view.</p>
+
+    <section>
+      <h2 id="main_window">Main window</h2>
+      <p>The main window is where you can access and organise your collections as well as the settings that apply to the whole application.</p>
+      <section>
+      <h3 id="home_view">Home View</h3>
+      <p>This view is for quick access. You find here the books you have been reading recently and the ones you added recently. Possible actions are to Import a Publication, to Open a publication and to Open Publication menu.</p>
+      </section>
+      <section>
+      <h3 id="all_publications_view">All publications View</h3>
+      <p>This is the place where all your publications stands. With time it may become full of hundreds of books so you need options to sort and search. Because of that, this view is more complex. First buttons on this page allows to select between two view modes, Grid and Table that will affect the display of the ebooks list and offer different options to sort and filter, they are detailed two paragraphes below.</p>
+      <p>The available actions on the View level are to Import a Publication, to Search, to Filter by tag and navigate by pages of your library. Library pages are like Shelves or stacks as the All publication view is limited to 50 publications to keep it usable.</p>
+
+      <section>
+        <h4 id="grid_mode">Grid Mode</h4>
+        <p>The Grid mode presents the books like cards, keyboard tabulation will drive you from one book to another. This mode offers the possible actions to Open a publication and to Open Publication menu.</p>
+      </section>
+      <section>
+            <h4 id="table_mode">Table Mode</h4>
+          <p>The Table mode presents one book per line and allows to visualize a large number of informations usually available only in the Book information Panel. Keyboard tabulation will drive you thru all those details. </p>
+        </section>
+    </section>
+    <section>
+      <h3 id="catalog_view">Catalogs View</h3>
+
+      <h2>Access to catalogs</h2>
+      <p>Many public libraries and bookstores are adopting 
+  
+        <a href="https://opds.io/">OPDS</a> as a standard format to display their 
+  catalog on the Web. Thorium can provide access to OPDS 1 and 2 catalogs. 
+  It also supports several identification formats associated with OPDS 
+  and can therefore provide users with access to their personal library,  
+  i.e. the digital books that the user has acquired or 
+  borrowed, allowing them to be downloaded and read immediately.
+    
+      </p>
+      <div class="info">
+  When you are in the Thorium library, select the 
+  `Catalogs` tab then the button `+ Add an OPDS feed`. 
+  Indicate a Name to designate this catalog and paste an address corresponding to 
+  to a catalog distributed in OPDS format. Validate with the button `Add`.
+  
+        <p>Example :</p>
+        <p>Activating the following link will download a .atom file that can be opened with Thorium:
+  
+          <a href="https://www.gutenberg.org/ebooks/search.opds/" target="_blank">Download OPDS feed for Gutenberg.org new titles</a>
+        </p>
+        <p>It is also possible to use context menu (usually Right clic), Copy this link and paste it into Thorium Add an OPDS panel
+  to see the magic happen.</p>
+        <p>OPDS feeds can also be provided as direct links which should open directly in Thorium. 
+          <a href="https://www.gutenberg.org/ebooks/search.opds/" target="_blank">Open OPDS feed for Gutenberg.org new titles</a>
+        </p>
+        <p>Since Thorium 2.2, OPDS feeds can be edited so you can change the name or retrieve feed URL.</p>
+      </div>
+      <figure>
+        <img src="../resources/images/local-fr/thorium-opds-add.png" alt=""/>
+        <figcaption class="icon"></figcaption>
+      </figure>
+      <h2>Example of OPDS feeds with LCP protected contents</h2>
+      <p>Feeds with protected contents should allow you to login directly from Thorium catalog page, the button or access to login might be different depending on the feed provider.</p>
+      <p>Archive.org OPDS feed allows to browse and borrow books under LCP license. An Archive org account is needed, authentication page will open once you select a book. You can add it to Thorium with the following address: 
+        <a href="https://archive.org/services/opds">Open Archive.org OPDS feed</a>
+      </p>
+      <p>You can use 
+        <a href="https://catalog.feedbooks.com/catalog/index.json">feedbooks OPDS</a> to browse 
+        <a href="https://www.feedbooks.com/#">Feedbook catalog</a>. Once you have selected a book you'll be redirected to the webpage where you can buy the book.
+      </p>
+      <p>Feedbooks OPDS allows you to loggin from Thorium Catalog feed with the 
+        <em>Shelf</em> button on the upper right corner. Anybook bought with your Feedbooks account will be available for download directly from the Thorium OPDS feed catalog interface.
+      </p>
+      <p>For testing purposes EDRLab provides a feed with three free publications under LCP protection. You can add it to Thorium with the following address: 
+        <a href="https://edrlab.org/public/feed/opds-lcp.json">Add EDRLab OPDS public feed</a>
+      </p>
+      <h2>OPDS Feed responsibility</h2>
+      <p>OPDS feeds and the access they provide to content are under responsibility of the feed publisher. So are the information given by the feed.</p>
+   
+    </section>
+    <section>
+      <h3 id="setting_view">Settings View</h3>
+    </section>
+  
+      
+    </section>
+
+
+    
+  </section>
+  </body>
+</html>
