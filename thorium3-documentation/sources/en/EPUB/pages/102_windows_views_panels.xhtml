@@ -39,28 +39,21 @@
     </section>
     <section>
       <h3 id="catalog_view">Catalogs View</h3>
+      <p>This is the place where you can store, access, browse online catalogs and acquire or borrow ebooks from them. At first this place will sound empty because we do not preload any catalog. The <i><a href="120_get_ebooks.xhtml">Where to get ebooks?</a></i> section can help you identify available catalogs if you do not already have one in mind.</p>
 
-      <h2>Access to catalogs</h2>
-      <p>Many public libraries and bookstores are adopting 
-  
-        <a href="https://opds.io/">OPDS</a> as a standard format to display their 
-  catalog on the Web. Thorium can provide access to OPDS 1 and 2 catalogs. 
-  It also supports several identification formats associated with OPDS 
-  and can therefore provide users with access to their personal library,  
-  i.e. the digital books that the user has acquired or 
-  borrowed, allowing them to be downloaded and read immediately.
-    
-      </p>
-      <div class="info">
-  When you are in the Thorium library, select the 
-  `Catalogs` tab then the button `+ Add an OPDS feed`. 
-  Indicate a Name to designate this catalog and paste an address corresponding to 
-  to a catalog distributed in OPDS format. Validate with the button `Add`.
-  
+      <p>Two catalogs protocoles are available.</p>
+      <ol>
+        <li><a href="https://opds.io/"><abbr title="Open Protocole Distribution System">OPDS</abbr></a>, a standard format to display catalog on the Web. Thorium can provide access to OPDS 1 and 2 catalogs. 
+        <li>French public libraries machine-readable catalog (similar to OPDS but not identical).</li>
+        <h4>Setting up a french public library account</h4>
+        <p>In France, many public libraries provide a machine-readable catalog (similar to OPDS but not identical), letting patrons download digital publications from their personal bookshelf. Integrating this technology in Thorium Reader allows you to download an ebook or audiobook directly into Thorium Reader for instant reading.</p>
+        <p>To connect your French public library account, enter a French city ('Montpellier') or part of the library name in the Search field and hit the Search button. A list of public libraries corresponding to your search will appear. Select a library and hit Add. In the updated list of catalogs, select this library: an authentication form is displayed. Enter your username/email address and password, and hit Login. You can now see the content of your personal bookshelf, from which you can download and read the ebooks and audiobooks you previously borrowed.</p>
+
+          <h4>Setting up an OPDS account</h4>
+          <p>Select the `Catalogs` tab then the button `+ Add an OPDS feed`. Indicate a Name to designate this catalog and paste an address corresponding to a catalog distributed in OPDS format. Validate with the button `Add`.</p>
         <p>Example :</p>
-        <p>Activating the following link will download a .atom file that can be opened with Thorium:
-  
-          <a href="https://www.gutenberg.org/ebooks/search.opds/" target="_blank">Download OPDS feed for Gutenberg.org new titles</a>
+        <p>Activating the following link will download a .atom file that can be opened with Thorium:  
+        <a href="https://www.gutenberg.org/ebooks/search.opds/" target="_blank">Download OPDS feed for Gutenberg.org new titles</a>
         </p>
         <p>It is also possible to use context menu (usually Right clic), Copy this link and paste it into Thorium Add an OPDS panel
   to see the magic happen.</p>
@@ -73,7 +66,7 @@
         <img src="../resources/images/local-fr/thorium-opds-add.png" alt=""/>
         <figcaption class="icon"></figcaption>
       </figure>
-      <h2>Example of OPDS feeds with LCP protected contents</h2>
+      <h5>Example of OPDS feeds with LCP protected contents</h5>
       <p>Feeds with protected contents should allow you to login directly from Thorium catalog page, the button or access to login might be different depending on the feed provider.</p>
       <p>Archive.org OPDS feed allows to browse and borrow books under LCP license. An Archive org account is needed, authentication page will open once you select a book. You can add it to Thorium with the following address: 
         <a href="https://archive.org/services/opds">Open Archive.org OPDS feed</a>
@@ -88,7 +81,7 @@
       <p>For testing purposes EDRLab provides a feed with three free publications under LCP protection. You can add it to Thorium with the following address: 
         <a href="https://edrlab.org/public/feed/opds-lcp.json">Add EDRLab OPDS public feed</a>
       </p>
-      <h2>OPDS Feed responsibility</h2>
+      <h5>OPDS Feed responsibility</h5>
       <p>OPDS feeds and the access they provide to content are under responsibility of the feed publisher. So are the information given by the feed.</p>
    
     </section>
