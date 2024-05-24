@@ -180,73 +180,59 @@
     <item id="rsc62" href="resources/images/local-fr/thorium-whereami-tdmfocus.png" media-type="image/png"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="page100" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page101_get_a_book" href="pages/101_get_a_book.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page210_read_a_book" href="pages/210_read_a_book.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page212_ImageZoom" href="pages/212_ImageZoom.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page213_search" href="pages/213_search.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page215_ReadingParameters" href="pages/215_ReadingParameters.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page220_organizing" href="pages/220_organizing.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page221_libraries" href="pages/221_libraries.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page222_catalogs" href="pages/222_catalogs.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page223_search" href="pages/223_search.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page224_tags" href="pages/224_tags.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page230_TTS" href="pages/230_TTS.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page240_annotations" href="pages/240_annotations.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page300_accessibility" href="pages/300_accessibility.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page301_A11yInfos" href="pages/301_A11yInfos.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page310_natives" href="pages/310_natives.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page311_screenReaders" href="pages/311_screenReaders.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page391_epubTest" href="pages/391_epubTest.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page400_ressources" href="pages/400_ressources.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page401_functions" href="pages/401_functions.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page402_Keyboard-shortcuts" href="pages/402_Keyboard-shortcuts.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page403_gesture" href="pages/403_gesture.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page406_formats" href="pages/406_formats.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page420_glossary" href="pages/420_glossary.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page430_faq" href="pages/430_faq.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page900_about" href="pages/900_about.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page902_credits" href="pages/902_credits.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page903_support" href="pages/903_support.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page904_issues" href="pages/904_issues.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page905_contribute" href="pages/905_contribute.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page912_accessibility_declaration" href="pages/912_accessibility_declaration.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page913_licence" href="pages/913_licence.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_100_forewords" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_101_opening_thorium" href="pages/101_opening_thorium.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_102_windows_views_panels" href="pages/102_windows_views_panels.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_110_libraries_actions" href="pages/110_libraries_actions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_111_catalogs_actions" href="pages/111_catalogs_actions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_120_get_ebooks.xhtml" href="pages/120_get_ebooks.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_210_reading" href="pages/210_reading.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_211_reading_textuals" href="pages/211_reading_textuals.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_212_reading_visuals" href="pages/212_reading_visuals.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_213_reading_auditory" href="pages/213_reading_auditory.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_214_reading_pdfs" href="pages/214_reading_pdfs.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_220_reading_actions" href="pages/220_reading_actions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_240_annotations" href="pages/240_annotations.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_300_accessibility" href="pages/300_accessibility.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_311_screenReaders" href="pages/311_screenReaders.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_400_ressources" href="pages/400_ressources.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_402_keys_functions" href="pages/402_keys_functions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_403_gesture" href="pages/403_gesture.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_406_formats" href="pages/406_formats.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_900_about" href="pages/900_about.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_903_support" href="pages/903_support.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_904_issues" href="pages/904_issues.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_905_contribute" href="pages/905_contribute.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_912_accessibility_declaration" href="pages/912_accessibility_declaration.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_913_licence" href="pages/913_licence.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>
     <itemref idref="toc"/>
-    <itemref idref="page100"/>
-    <itemref idref="page101_get_a_book"/>
-    <itemref idref="page210_read_a_book"/>
-    <itemref idref="page212_ImageZoom"/>
-    <itemref idref="page213_search"/>
-    <itemref idref="page215_ReadingParameters"/>
-    <itemref idref="page220_organizing"/>
-    <itemref idref="page221_libraries"/>
-    <itemref idref="page222_catalogs"/>
-    <itemref idref="page223_search"/>
-    <itemref idref="page224_tags"/>
-    <itemref idref="page230_TTS"/>
-    <itemref idref="page240_annotations"/>
-    <itemref idref="page300_accessibility"/>
-    <itemref idref="page301_A11yInfos"/>
-    <itemref idref="page310_natives"/>
-    <itemref idref="page311_screenReaders"/>
-    <itemref idref="page391_epubTest"/>
-    <itemref idref="page400_ressources"/>
-    <itemref idref="page401_functions"/>
-    <itemref idref="page402_Keyboard-shortcuts"/>
-    <itemref idref="page403_gesture"/>
-    <itemref idref="page406_formats"/>
-    <itemref idref="page420_glossary"/>
-    <itemref idref="page430_faq"/>
-    <itemref idref="page900_about"/>
-    <itemref idref="page902_credits"/>
-    <itemref idref="page903_support"/>
-    <itemref idref="page904_issues"/>
-    <itemref idref="page905_contribute"/>
-    <itemref idref="page912_accessibility_declaration"/>
-    <itemref idref="page913_licence"/>
+<itemref idref="pages_100_forewords"/>
+<itemref idref="pages_101_opening_thorium"/>
+<itemref idref="pages_102_windows_views_panels"/>
+<itemref idref="pages_110_libraries_actions"/>
+<itemref idref="pages_111_catalogs_actions"/>
+<itemref idref="pages_120_get_ebooks.xhtml"/>
+<itemref idref="pages_210_reading"/>
+<itemref idref="pages_211_reading_textuals"/>
+<itemref idref="pages_212_reading_visuals"/>
+<itemref idref="pages_213_reading_auditory"/>
+<itemref idref="pages_214_reading_pdfs"/>
+<itemref idref="pages_220_reading_actions"/>
+<itemref idref="pages_240_annotations"/>
+<itemref idref="pages_300_accessibility"/>
+<itemref idref="pages_311_screenReaders"/>
+<itemref idref="pages_400_ressources"/>
+<itemref idref="pages_402_keys_functions"/>
+<itemref idref="pages_403_gesture"/>
+<itemref idref="pages_406_formats"/>
+<itemref idref="pages_900_about"/>
+<itemref idref="pages_903_support"/>
+<itemref idref="pages_904_issues"/>
+<itemref idref="pages_905_contribute"/>
+<itemref idref="pages_912_accessibility_declaration"/>
+<itemref idref="pages_913_licence"/>
   </spine>
 </package>
