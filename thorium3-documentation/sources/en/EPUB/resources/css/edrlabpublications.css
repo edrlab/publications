@@ -4,7 +4,7 @@
 @namespace svg "http://www.w3.org/2000/svg";
 
 :root{
---color-blue: purple;
+--color-blue:  #1053c8;
 }
 
 .icons {

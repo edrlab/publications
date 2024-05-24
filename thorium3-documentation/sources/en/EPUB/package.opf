@@ -183,8 +183,9 @@
 <item id="pages_100_forewords" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_101_opening_thorium" href="pages/101_opening_thorium.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_102_windows_views_panels" href="pages/102_windows_views_panels.xhtml" media-type="application/xhtml+xml"/>
-<item id="pages_120_get_ebooks.xhtml" href="pages/120_get_ebooks.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_110_libraries_actions" href="pages/110_libraries_actions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_111_catalogs_actions" href="pages/111_catalogs_actions.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_120_get_ebooks.xhtml" href="pages/120_get_ebooks.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_210_reading" href="pages/210_reading.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_211_reading_textuals" href="pages/211_reading_textuals.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_212_reading_visuals" href="pages/212_reading_visuals.xhtml" media-type="application/xhtml+xml"/>
@@ -195,7 +196,7 @@
 <item id="pages_300_accessibility" href="pages/300_accessibility.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_311_screenReaders" href="pages/311_screenReaders.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_400_ressources" href="pages/400_ressources.xhtml" media-type="application/xhtml+xml"/>
-<item id="pages_402_Keyboard-shortcuts" href="pages/402_Keyboard-shortcuts.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_402_keys_functions" href="pages/402_keys_functions.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_403_gesture" href="pages/403_gesture.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_406_formats" href="pages/406_formats.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_900_about" href="pages/900_about.xhtml" media-type="application/xhtml+xml"/>
@@ -212,6 +213,7 @@
 <itemref idref="pages_101_opening_thorium"/>
 <itemref idref="pages_102_windows_views_panels"/>
 <itemref idref="pages_110_libraries_actions"/>
+<itemref idref="pages_111_catalogs_actions"/>
 <itemref idref="pages_120_get_ebooks.xhtml"/>
 <itemref idref="pages_210_reading"/>
 <itemref idref="pages_211_reading_textuals"/>
@@ -223,7 +225,7 @@
 <itemref idref="pages_300_accessibility"/>
 <itemref idref="pages_311_screenReaders"/>
 <itemref idref="pages_400_ressources"/>
-<itemref idref="pages_402_Keyboard-shortcuts"/>
+<itemref idref="pages_402_keys_functions"/>
 <itemref idref="pages_403_gesture"/>
 <itemref idref="pages_406_formats"/>
 <itemref idref="pages_900_about"/>
