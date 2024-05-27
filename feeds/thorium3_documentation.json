@@ -4,7 +4,7 @@
     },
     "links": [
         {
-            "href": "https://github.com/edrlab/thorium-reader-doc/blob/master/opds/opds.json",
+            "href": "https://raw.githubusercontent.com/edrlab/publications/main/feeds/thorium3_documentation.json",
             "type": "application/opds+json",
             "rel": "self"
         }
