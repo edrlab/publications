@@ -1,3 +1,4 @@
 # publications
 
-opds://github.com/edrlab/publications/raw/main/feeds/thorium3_documentation.json
+https://rawcdn.githack.com/edrlab/publications/main/feeds/thorium3_documentation.json
+opds://rawcdn.githack.com/edrlab/publications/main/feeds/thorium3_documentation.json
