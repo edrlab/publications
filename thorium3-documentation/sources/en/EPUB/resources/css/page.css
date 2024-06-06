@@ -7,6 +7,19 @@ h1 {
 .alert {color: rgb(255, 123, 0)}
 .danger {color: rgb(190, 0, 19)3, 61)}
 
+.icons {
+  width: 1em;
+  vertical-align: middle;
+  border-style: none;
+  margin-right: 0.2em;
+}
+
+.icons[data-theme='dark'] {
+  border-color: aliceblue;
+  border-width: 10px;
+  color: aliceblue;
+  }
+
 .ui_button {
   fill: var(--color-primary);
   color: var(--color-blue);

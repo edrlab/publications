@@ -178,6 +178,11 @@
     <item id="rsc60" href="resources/images/local-fr/thorium-verdana.png" media-type="image/png"/>
     <item id="rsc61" href="resources/images/local-fr/thorium-whereami-ctrlK.png" media-type="image/png"/>
     <item id="rsc62" href="resources/images/local-fr/thorium-whereami-tdmfocus.png" media-type="image/png"/>
+<item id="th3_library_grid_actions" href="resources/images/local_en/th3_library_grid_actions.png" media-type="image/png"/>
+<item id="th3_library_pages" href="resources/images/local_en/th3_library_pages.png" media-type="image/png"/>
+<item id="th3_library_table_actions" href="resources/images/local_en/th3_library_table_actions.png" media-type="image/png"/>
+<item id="th3_main_settings_keys_context" href="resources/images/local_en/th3_main_settings_keys_context.png" media-type="image/png"/>
+<item id="th3_main_window_home" href="resources/images/local_en/th3_main_window_home.png" media-type="image/png"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 <item id="pages_100_forewords" href="pages/100_forewords.xhtml" media-type="application/xhtml+xml"/>
@@ -185,7 +190,7 @@
 <item id="pages_102_windows_views_panels" href="pages/102_windows_views_panels.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_110_libraries_actions" href="pages/110_libraries_actions.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_111_catalogs_actions" href="pages/111_catalogs_actions.xhtml" media-type="application/xhtml+xml"/>
-<item id="pages_120_get_ebooks.xhtml" href="pages/120_get_ebooks.xhtml" media-type="application/xhtml+xml"/>
+<item id="pages_120_book_information_panel" href="pages/120_book_information_panel.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_210_reading" href="pages/210_reading.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_211_reading_textuals" href="pages/211_reading_textuals.xhtml" media-type="application/xhtml+xml"/>
 <item id="pages_212_reading_visuals" href="pages/212_reading_visuals.xhtml" media-type="application/xhtml+xml"/>
@@ -214,7 +219,7 @@
 <itemref idref="pages_102_windows_views_panels"/>
 <itemref idref="pages_110_libraries_actions"/>
 <itemref idref="pages_111_catalogs_actions"/>
-<itemref idref="pages_120_get_ebooks.xhtml"/>
+<itemref idref="pages_120_book_information_panel"/>
 <itemref idref="pages_210_reading"/>
 <itemref idref="pages_211_reading_textuals"/>
 <itemref idref="pages_212_reading_visuals"/>
