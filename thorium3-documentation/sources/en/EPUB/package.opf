@@ -178,6 +178,7 @@
     <item id="rsc60" href="resources/images/local-fr/thorium-verdana.png" media-type="image/png"/>
     <item id="rsc61" href="resources/images/local-fr/thorium-whereami-ctrlK.png" media-type="image/png"/>
     <item id="rsc62" href="resources/images/local-fr/thorium-whereami-tdmfocus.png" media-type="image/png"/>
+    <item id="th3_anotation_pop_up" href="resources/images/local_en/th3_anotation_pop_up.png" media-type="image/png"/>
 <item id="th3_library_grid_actions" href="resources/images/local_en/th3_library_grid_actions.png" media-type="image/png"/>
 <item id="th3_library_pages" href="resources/images/local_en/th3_library_pages.png" media-type="image/png"/>
 <item id="th3_library_table_actions" href="resources/images/local_en/th3_library_table_actions.png" media-type="image/png"/>
