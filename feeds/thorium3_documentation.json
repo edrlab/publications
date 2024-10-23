@@ -21,35 +21,14 @@
                 "modified": "2024-10-23T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
-                ],
-                "accessibility": {
-                    "summary": "Any blocker or limitation can be reported at https://github.com/edrlab/thorium-reader-doc/issues or to contact@edrlab.org",
-                    "accessMode": 
-                     [
-                          "textual",
-                          "visual"
-                        ],
-                     "accessModeSufficient":  
-                     [
-                            "textual",
-                            "visual"
-                          ],
-                          
-                    "feature": 
-                     [
-                          "ARIA",
-                          "readingOrder",
-                          "structuralNavigation",
-                          "tableOfContents",
-                          "alternativeText",
-                          "displayTransformability"
-                        ],
-                    "hazard": 
-                     [
-                          "none"
-                        ]
-            }
+                ]
             },
+            "accessibility": {
+                "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
+                "accessModeSufficient": "textual",
+                "feature": "displayTransformability"
+            },
+            
             "links": [
                 {
                     "type": "application/epub+zip",
@@ -77,35 +56,14 @@
                 "modified": "2024-10-23T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
-                ],
-                "accessibility": {
-                    "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
-                    "accessMode": 
-                     [
-                          "textual",
-                          "visual"
-                        ],
-                     "accessModeSufficient":  
-                     [
-                            "textual",
-                            "visual"
-                          ],
-                          
-                    "feature": 
-                     [
-                          "ARIA",
-                          "readingOrder",
-                          "structuralNavigation",
-                          "tableOfContents",
-                          "alternativeText",
-                          "displayTransformability"
-                        ],
-                    "hazard": 
-                     [
-                          "none"
-                        ]
-            }
+                ]
             },
+            "accessibility": {
+                "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
+                "accessModeSufficient": "textual",
+                "feature": "displayTransformability"
+            },
+
             "links": [
                 {
                     "type": "application/epub+zip",
