@@ -4,7 +4,7 @@
     },
     "links": [
         {
-            "href": "https://rawcdn.githack.com/edrlab/publications/main/feeds/thorium3_documentation.json",
+            "href": "https://edrlab.github.io/publications/feeds/thorium3_documentation.json",
             "type": "application/opds+json",
             "rel": "self"
         }
@@ -13,7 +13,7 @@
         {
             "metadata": {
                 "@type": "http://schema.org/Book",
-                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/en/build/epub/EPUB/package.opf#L10",
+                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/en/build/epub/EPUB/package.opf",
                 "title": "Thorium Reader 3.0 Documentation in English version 0.0.2",
                 "author": "The European Digital Reading Lab",
                 "description": "Guidance and ressources references to enjoy the best reading experience using the modern ebook reader Thorium",
@@ -69,7 +69,7 @@
         {
             "metadata": {
                 "@type": "http://schema.org/Book",
-                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/fr/build/epub/EPUB/package.opf#L10",
+                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/fr/build/epub/EPUB/package.opf",
                 "title": "Documentation de Thorium Reader 3.0 en français, version 0.0.2",
                 "author": "The European Digital Reading Lab",
                 "description": "Conseils et références de ressources pour profiter de la meilleure expérience de lecture en utilisant le lecteur ebook moderne Thorium",
