@@ -13,26 +13,109 @@
         {
             "metadata": {
                 "@type": "http://schema.org/Book",
-                "identifier": "Th-Doc-En-3.0",
-                "title": "Thorium Reader Documentation English 3.0",
+                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/en/build/epub/EPUB/package.opf#L10",
+                "title": "Thorium Reader 3.0 Documentation in English version 0.0.2",
                 "author": "The European Digital Reading Lab",
-                "description": "",
-                "collection": "Thorium Reader Documentation ",
-                "modified": "2024-03-31T11:00:00Z",
+                "description": "Guidance and ressources references to enjoy the best reading experience using the modern ebook reader Thorium",
+                "collection": "Thorium Reader 3.0 Documentation ",
+                "modified": "2024-10-23T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
-                ]
+                ],
+                "accessibility": {
+                    "summary": "Any blocker or limitation can be reported at https://github.com/edrlab/thorium-reader-doc/issues or to contact@edrlab.org",
+                    "accessMode": 
+                     [
+                          "textual",
+                          "visual"
+                        ],
+                     "accessModeSufficient":  
+                     [
+                            "textual",
+                            "visual"
+                          ],
+                          
+                    "feature": 
+                     [
+                          "ARIA",
+                          "readingOrder",
+                          "structuralNavigation",
+                          "tableOfContents",
+                          "alternativeText",
+                          "displayTransformability"
+                        ],
+                    "hazard": 
+                     [
+                          "none"
+                        ]
+            }
             },
             "links": [
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://rawcdn.githack.com/edrlab/publications/main/thorium3-documentation/sources/en.epub"
+                    "href": "https://rawcdn.githack.com/edrlab/thorium-reader-doc/main/epub-doc/en/build/Thorium%20Reader%20Documentation%20English.epub"
                 }
             ],
             "images": [
                 {
-                    "href": "https://rawcdn.githack.com/edrlab/publications/main/thorium3-documentation/sources/en/EPUB/resources/images/cover.png",
+                    "href": "https://rawcdn.githack.com/edrlab/thorium-reader-doc/main/epub-doc/en/build/epub/EPUB/resources/images/cover.png",
+                    "type": "image/jpeg",
+                    "height": 600,
+                    "width": 400
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/edrlab/thorium-reader-doc/blob/a25b9a56230377c20a69040a6de0b9faa0c16708/epub-doc/fr/build/epub/EPUB/package.opf#L10",
+                "title": "Documentation de Thorium Reader 3.0 en français, version 0.0.2",
+                "author": "The European Digital Reading Lab",
+                "description": "Conseils et références de ressources pour profiter de la meilleure expérience de lecture en utilisant le lecteur ebook moderne Thorium",
+                "collection": "Thorium Reader 3.0 Documentation ",
+                "modified": "2024-10-23T17:00:00Z",
+                "publisher": "The European Digital Reading Lab",
+                "subject": [
+                ],
+                "accessibility": {
+                    "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
+                    "accessMode": 
+                     [
+                          "textual",
+                          "visual"
+                        ],
+                     "accessModeSufficient":  
+                     [
+                            "textual",
+                            "visual"
+                          ],
+                          
+                    "feature": 
+                     [
+                          "ARIA",
+                          "readingOrder",
+                          "structuralNavigation",
+                          "tableOfContents",
+                          "alternativeText",
+                          "displayTransformability"
+                        ],
+                    "hazard": 
+                     [
+                          "none"
+                        ]
+            }
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://rawcdn.githack.com/edrlab/thorium-reader-doc/main/epub-doc/fr/build/Documentation%20de%20Thorium%20Reader%20en%20fran%C3%A7ais.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://rawcdn.githack.com/edrlab/thorium-reader-doc/main/epub-doc/fr/build/epub/EPUB/resources/images/cover.png",
                     "type": "image/jpeg",
                     "height": 600,
                     "width": 400
