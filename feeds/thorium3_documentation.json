@@ -24,11 +24,6 @@
                 ],
                 "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
-                "accessMode": 
-                [
-                     "textual",
-                     "visual"
-                   ],
                 "accessModeSufficient":  
                 [
                        "textual",
@@ -73,11 +68,6 @@
                 ],
                 "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
-                "accessMode": 
-                [
-                     "textual",
-                     "visual"
-                   ],
                 "accessModeSufficient":  
                 [
                        "textual",
