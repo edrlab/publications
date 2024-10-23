@@ -24,12 +24,20 @@
                 ],
                 "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
-                "accessModeSufficient": "textual",
+                "accessMode": 
+                [
+                     "textual",
+                     "visual"
+                   ],
+                "accessModeSufficient":  
+                [
+                       "textual",
+                       "visual"
+                     ],
                 "feature":[
                     "structuralNavigation",
                     "alternativeText",
                     "tableOfContents",
-                    "printPageNumbers",
                     "displayTransformability"
                   ]
             }
@@ -65,18 +73,24 @@
                 ],
                 "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
-                "accessModeSufficient": "textual",
+                "accessMode": 
+                [
+                     "textual",
+                     "visual"
+                   ],
+                "accessModeSufficient":  
+                [
+                       "textual",
+                       "visual"
+                     ],
                 "feature":[
                     "structuralNavigation",
                     "alternativeText",
                     "tableOfContents",
-                    "printPageNumbers",
                     "displayTransformability"
                   ]
             }
             },
-            
-
             "links": [
                 {
                     "type": "application/epub+zip",
