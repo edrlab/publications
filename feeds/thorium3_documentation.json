@@ -21,12 +21,18 @@
                 "modified": "2024-10-23T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
-                ]
-            },
-            "accessibility": {
+                ],
+                "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
                 "accessModeSufficient": "textual",
-                "feature": "displayTransformability"
+                "feature":[
+                    "structuralNavigation",
+                    "alternativeText",
+                    "tableOfContents",
+                    "printPageNumbers",
+                    "displayTransformability"
+                  ]
+            }
             },
             
             "links": [
@@ -56,13 +62,20 @@
                 "modified": "2024-10-23T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
-                ]
-            },
-            "accessibility": {
+                ],
+                "accessibility": {
                 "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou à l'adresse contact@edrlab.org.",
                 "accessModeSufficient": "textual",
-                "feature": "displayTransformability"
+                "feature":[
+                    "structuralNavigation",
+                    "alternativeText",
+                    "tableOfContents",
+                    "printPageNumbers",
+                    "displayTransformability"
+                  ]
+            }
             },
+            
 
             "links": [
                 {
