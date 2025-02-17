@@ -37,7 +37,7 @@
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/Thorium_reader_users_guide_English_3_1.epub"
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/thorium-reader-user-guide-english-3-1.epub"
                 }
             ],
             "images": [
@@ -76,7 +76,7 @@
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://edrlab.github.io/publications/thorium3-documentation/fr/Guide_utilisation_thorium_reader_francais_3_1.epub"
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/fr/guide-utilisateur-thorium-reader-francais-3-1.epub"
                 }
             ],
             "images": [
@@ -115,7 +115,7 @@
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://edrlab.github.io/publications/thorium3-documentation/es/Guia_usuario_Thorium_espanol_3_1.epub"
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/es/guia-usuario-thorium-reader-espanol-3-1.epub"
                 }
             ],
             "images": [
