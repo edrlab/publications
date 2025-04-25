@@ -16,7 +16,7 @@
             <stop stop-color="#005DFF" offset="0%"></stop>
             <stop stop-color="#87B2FF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
-        <polygon id="path-4" points="66.2754152 121.91603 69.9959531 92.1897518 93.5870404 47.7442896 91.4182555 5.8287742 53.4017557 0.0395624654 0.385298906 30.8451042 36.9755765 152.34538"></polygon>
+        <polygon id="path-4" points="66 122 69 92 74 47 73 5 53 0 0 30 36 152"></polygon>
         <filter x="-160.9%" y="-98.5%" width="421.9%" height="297.0%" filterUnits="objectBoundingBox" id="filter-5">
             <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
         </filter>
