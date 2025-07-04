@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "title": "Thorium Reader 3.2 Documentation"
+    },
+    "links": [
+        {
+            "href": "https://edrlab.github.io/publications/feeds/thorium32_documentation.json",
+            "type": "application/opds+json",
+            "rel": "self"
+        }
+    ],
+    "publications": [
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "com.github.edrlab.thorium-reader-doc-epub-en.3.2.0",
+                "title": "Thorium reader user's guide (English, 3.2)",
+                "author": "The European Digital Reading Lab",
+                "description": "Official Thorium 3.2 documentation. Offers guidance to help you get to know and make better use of Thorium Reader. Quick support references are not included here and are available online from the Thorium Support webpages.",
+                "collection": "Thorium Reader 3.2 Documentation ",
+                "modified": "2025-01-30T17:00:00Z",
+                "publisher": "The European Digital Reading Lab",
+                "subject": [
+                ],
+                "accessibility": {
+                "summary": "Any blockage or limitation can be reported at  https://github.com/edrlab/thorium-reader-doc/issues or by email at contact@edrlab.org.",
+                "feature":[
+                    "structuralNavigation",
+                    "alternativeText",
+                    "tableOfContents",
+                    "displayTransformability"
+                  ]
+            }
+            },
+            
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/thorium-reader-user-guide-english-3-2.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/epub/EPUB/resources/images/cover.jpeg",
+                    "type": "image/jpeg",
+                    "height": 600,
+                    "width": 400
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "com.github.edrlab.thorium-reader-doc-epub-fr.3.2.0",
+                "title": "Guide d'utilisation du lecteur de thorium (français, 3.2)",
+                "author": "The European Digital Reading Lab",
+                "description": "Documentation officielle de Thorium Reader 3.2. Elle propose des conseils pour vous aider à mieux connaître et utiliser Thorium Reader. Les références d'assistance rapide ne sont pas incluses ici et sont disponibles en ligne sur les pages Web d'assistance de Thorium",
+                "collection": "Thorium Reader 3.2 Documentation ",
+                "modified": "2025-01-30T17:00:00Z",
+                "publisher": "The European Digital Reading Lab",
+                "subject": [
+                ],
+                "accessibility": {
+                "summary": "Tout blocage ou limitation peut être signalé à l'adresse https://github.com/edrlab/thorium-reader-doc/issues ou par courrier électronique à l'adresse contact@edrlab.org.",
+                "feature":[
+                    "structuralNavigation",
+                    "alternativeText",
+                    "tableOfContents",
+                    "displayTransformability"
+                  ]
+            }
+            },
+            
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/fr/guide-utilisateur-thorium-reader-francais-3-2.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/fr/epub/EPUB/resources/images/cover.png",
+                    "type": "image/jpeg",
+                    "height": 600,
+                    "width": 400
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "com.github.edrlab.thorium-reader-doc-epub-es.3.2.0",
+                "title": "Guía del usuario del lector Thorium Reader (español, 3.2)",
+                "author": "The European Digital Reading Lab",
+                "description": "Documentación oficial del Thorium Reader 3.2. Ofrece orientación para ayudarlo a conocer y hacer un mejor uso del lector de Thorium . Las referencias de soporte rápido no se incluyen aquí y están disponibles en línea desde las páginas web de soporte de Thorium",
+                "collection": "Thorium Reader 3.2 Documentation ",
+                "modified": "2025-01-30T17:00:00Z",
+                "publisher": "The European Digital Reading Lab",
+                "subject": [
+                ],
+                "accessibility": {
+                "summary": "Cualquier bloqueo o limitación puede comunicarse a https://github.com/edrlab/thorium-reader-doc/issues o por correo electrónico a contact@edrlab.org.",
+                "feature":[
+                    "structuralNavigation",
+                    "alternativeText",
+                    "tableOfContents",
+                    "displayTransformability"
+                  ]
+            }
+            },
+            
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/es/guia-usuario-thorium-reader-espanol-3-2.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/es/epub/EPUB/resources/images/cover.png",
+                    "type": "image/jpeg",
+                    "height": 600,
+                    "width": 400
+                }
+            ]
+        }
+    ]
+}
