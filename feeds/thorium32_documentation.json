@@ -18,7 +18,7 @@
                 "author": "The European Digital Reading Lab",
                 "description": "Official Thorium 3.2 documentation. Offers guidance to help you get to know and make better use of Thorium Reader. Quick support references are not included here and are available online from the Thorium Support webpages.",
                 "collection": "Thorium Reader 3.2 Documentation ",
-                "modified": "2025-01-30T17:00:00Z",
+                "modified": "2025-06-30T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
                 ],
@@ -42,8 +42,8 @@
             ],
             "images": [
                 {
-                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/epub/EPUB/resources/images/cover.jpeg",
-                    "type": "image/jpeg",
+                    "href": "https://edrlab.github.io/publications/thorium3-documentation/en/epub/EPUB/resources/images/cover.png",
+                    "type": "image/png",
                     "height": 600,
                     "width": 400
                 }
@@ -57,7 +57,7 @@
                 "author": "The European Digital Reading Lab",
                 "description": "Documentation officielle de Thorium Reader 3.2. Elle propose des conseils pour vous aider à mieux connaître et utiliser Thorium Reader. Les références d'assistance rapide ne sont pas incluses ici et sont disponibles en ligne sur les pages Web d'assistance de Thorium",
                 "collection": "Thorium Reader 3.2 Documentation ",
-                "modified": "2025-01-30T17:00:00Z",
+                "modified": "2025-06-30T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
                 ],
@@ -82,7 +82,7 @@
             "images": [
                 {
                     "href": "https://edrlab.github.io/publications/thorium3-documentation/fr/epub/EPUB/resources/images/cover.png",
-                    "type": "image/jpeg",
+                    "type": "image/png",
                     "height": 600,
                     "width": 400
                 }
@@ -96,7 +96,7 @@
                 "author": "The European Digital Reading Lab",
                 "description": "Documentación oficial del Thorium Reader 3.2. Ofrece orientación para ayudarlo a conocer y hacer un mejor uso del lector de Thorium . Las referencias de soporte rápido no se incluyen aquí y están disponibles en línea desde las páginas web de soporte de Thorium",
                 "collection": "Thorium Reader 3.2 Documentation ",
-                "modified": "2025-01-30T17:00:00Z",
+                "modified": "2025-06-30T17:00:00Z",
                 "publisher": "The European Digital Reading Lab",
                 "subject": [
                 ],
@@ -121,7 +121,7 @@
             "images": [
                 {
                     "href": "https://edrlab.github.io/publications/thorium3-documentation/es/epub/EPUB/resources/images/cover.png",
-                    "type": "image/jpeg",
+                    "type": "image/png",
                     "height": 600,
                     "width": 400
                 }
